@@ -1,0 +1,1 @@
+export const defaultAvatar = 'https://w7.pngwing.com/pngs/409/621/png-transparent-computer-icons-avatar-male-user-profile-others-logo-monochrome-silhouette.png'

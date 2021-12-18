@@ -1,0 +1,9 @@
+.post {
+    color: #003b46;
+}
+
+.post_ava {
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+}

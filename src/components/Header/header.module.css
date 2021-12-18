@@ -1,0 +1,10 @@
+.logo {
+    padding: 10px;
+    width: 80px;
+    height: 80px;
+}
+
+.header {
+    grid-area: h;
+    background-color: #003b46;
+}

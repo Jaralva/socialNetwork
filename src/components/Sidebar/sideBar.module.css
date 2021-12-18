@@ -1,0 +1,14 @@
+.sidebar {
+    grid-area: s;
+    background-color: #66a5ad;
+    padding: 10px;
+}
+
+.categories a{
+    color: white;
+    text-decoration: none;
+}
+
+.categories a.active {
+    color: white;
+}
